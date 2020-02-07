@@ -5,3 +5,4 @@ This Project is Vaiable as a [gist](https://gist.github.com/iam-abbas/fa95401b7d
 - Add More Visual Graphs
 - Add Heat Signature Graph
 - Eloborate on Chinese Graphs
+- Use Folium
